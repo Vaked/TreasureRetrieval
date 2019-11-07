@@ -1,0 +1,7 @@
+C:\Users\Bollock Chops\source\repos\TreasureRetrieval\TreasureRetrieval\bin\Debug\TreasureRetrieval.exe.config
+C:\Users\Bollock Chops\source\repos\TreasureRetrieval\TreasureRetrieval\bin\Debug\TreasureRetrieval.exe
+C:\Users\Bollock Chops\source\repos\TreasureRetrieval\TreasureRetrieval\bin\Debug\TreasureRetrieval.pdb
+C:\Users\Bollock Chops\source\repos\TreasureRetrieval\TreasureRetrieval\obj\Debug\TreasureRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\Bollock Chops\source\repos\TreasureRetrieval\TreasureRetrieval\obj\Debug\TreasureRetrieval.exe
+C:\Users\Bollock Chops\source\repos\TreasureRetrieval\TreasureRetrieval\obj\Debug\TreasureRetrieval.pdb
+C:\Users\Bollock Chops\source\repos\TreasureRetrieval\TreasureRetrieval\obj\Debug\TreasureRetrieval.csprojAssemblyReference.cache
